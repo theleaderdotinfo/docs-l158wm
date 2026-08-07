@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-5uplke.pusatradar88.cfd/sitemap.xml
